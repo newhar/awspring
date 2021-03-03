@@ -23,7 +23,7 @@ public class HelloControllerTest {
 
     @Test
     public void hello가_리턴된다() throws Exception {
-        //given
+        //givenK
         String hello = "hello";
 
         //when
